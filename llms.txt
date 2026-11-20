@@ -1,0 +1,7 @@
+# Nexcent-Rose-Nine
+
+> Nexcent-Rose-Nine — key pages for AI systems and answer engines.
+
+## Pages
+- [Nexcent](https://nexcent-rose-nine.vercel.app/)
+- [Nexcent](https://nexcent-rose-nine.vercel.app/index.html)
